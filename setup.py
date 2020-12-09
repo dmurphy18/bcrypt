@@ -7,7 +7,7 @@ from setuptools import setup
 from setuptools.command.test import test
 
 
-CFFI_DEPENDENCY = "cffi>=1.1"
+CFFI_DEPENDENCY = "cffi==1.14.3"
 SIX_DEPENDENCY = "six>=1.4.1"
 
 
